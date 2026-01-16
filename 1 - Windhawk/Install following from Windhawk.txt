@@ -1,0 +1,37 @@
+Before installing, make sure you put the process inclusion list in advance settings:
+dwm.exe
+svchost.exe
+winlogon.exe
+logonui.exe
+
+Install following from Windhawk
+Aerexplorer
+Aero Flyout Fix
+Classic Winver
+aero tray
+Basic Themer
+Clientedge Everywhere - Disable it first
+Dwm Unextend Frames
+Eradicate Immersive Menu
+Fix Basic Caption Text
+Legacy File Copy
+Old This PC Command
+Open With
+Restore Button Pulse Animation
+StartIsBack++ Tweaker
+UIFILE Override
+UIRibbon Caption Icon Fix
+Win32 Tray Clock Experience
+Windows 7 Alt+Tab Loader
+Windows 7 Style UAC Dim
+Accent Color Sync
+Message Box Fix
+UIFILE Override
+UIRibbon Caption Icon Fix
+
+Install by creating mod
+Force thick frame
+Disk pie chart
+Disable OSD
+Remove Windows 10s UWP Titlebars
+
